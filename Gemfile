@@ -56,5 +56,10 @@ group :development do
   gem 'foreman'
 end
 
+# group :vue_admin do
+#   gem "vue_admin", path: "vue_admin"
+# end
+
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
+gem 'vue_admin', path: 'vue_admin'
