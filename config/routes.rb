@@ -7,4 +7,6 @@ Rails.application.routes.draw do
   get '/about',   to: 'home#index'
   get '/contact',   to: 'home#index'
 
+  mount VueAdmin::Engine => "/vue_admin"
+ 
 end

@@ -1,0 +1,1 @@
+3.times { Ad.create!(name: '求人') }

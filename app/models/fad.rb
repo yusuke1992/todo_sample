@@ -1,0 +1,2 @@
+class Fad < ApplicationRecord
+end
