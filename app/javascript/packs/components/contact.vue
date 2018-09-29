@@ -7,5 +7,7 @@ React同様、React NativeもJavaScriptと、JSXと呼ばれるXMLライクな�
 
 ネイティブのレンダリングAPIが呼び出されるクロスプラットフォームでのアプリ開発というと、以前だとTitanium Mobile、今だとXamarinなども思い浮かべられるかもしれない。ここでは特に比較などはしないが、１つReact Nativeが安心できるポイントとして、Facebook, Instagram, Airbnb, Baiduといった名だたるアプリがこぞって採用しているということが挙げられる。どういったアプリで利用されているかはこちらのページで見ることができる
     </p>
+    <link/>
+    
   </div>
 </template>
